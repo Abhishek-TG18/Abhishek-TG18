@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm currently working chatGPT clone using MERN stack + Open AI<br>I'm looking to collaborate on side projects<br>I'm looking for help with open source contribution<br>I'm currently learning Data Structures and Algorithms<br>
 ## Achievements
-<img src="https://assets.holopin.io/hf2024levels/level0-sloth-hello-0-0-0-0.webp" alt="Holopin Badge" width="200" />
+<img src="https://assets.holopin.io/hf2024levels/level0-sloth-hello-0-0-0-0.webp" alt="Holopin Badge" width="200" />           <img src="https://assets.holopin.io/hf2024levels/level4-sloth-hello-coffee-robe-witch-moon.webp" alt="Holopin Badge" width="200" />
 
 
 
