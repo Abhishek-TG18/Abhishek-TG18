@@ -1,7 +1,18 @@
 # 💫 About Me:
 I'm currently working chatGPT clone using MERN stack + Open AI<br>I'm looking to collaborate on side projects<br>I'm looking for help with open source contribution<br>I'm currently learning Data Structures and Algorithms<br>
 ## Achievements
-<img src="https://assets.holopin.io/hf2024levels/level0-sloth-hello-0-0-0-0.webp" alt="Holopin Badge" width="200" />           <img src="https://assets.holopin.io/hf2024levels/level4-sloth-hello-coffee-robe-witch-moon.webp" alt="Holopin Badge" width="200" />
+<img src="https://assets.holopin.io/hf2024levels/level4-sloth-hello-coffee-robe-witch-moon.webp" alt="Holopin Badge" width="200" />
+         
+
+
+ <summary><b>GSSOC(Ext-24) Badges 🪶</b></summary><br>
+<div style='display:flex; align-items:center; gap: 10px;''><a href="https://gssoc.girlscript.tech/leaderboard">
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
+  
+
+</div>
 
 
 
