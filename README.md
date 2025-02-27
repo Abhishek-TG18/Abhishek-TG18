@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working chatGPT clone using MERN stack + Open AI<br>I'm looking to collaborate on side projects<br>I'm looking for help with open source contribution<br>I'm currently learning Data Structures and Algorithms<br>
+I'm Abhishek TG studying my 3rd yr CSE in Siddaganga Institute of Technology <br>I'm currently learning Data Structures and Algorithms<br>
 ## Achievements
 <img src="https://assets.holopin.io/hf2024levels/level4-sloth-hello-coffee-robe-witch-moon.webp" alt="Holopin Badge" width="200" />
          
